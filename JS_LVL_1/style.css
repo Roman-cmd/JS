@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.default {
+    color: gray;
+}
+.color-5 {
+    color: green;
+}
+.color-4 {
+    color: blue;
+}
+.color-3 {
+    color: yellow;
+}
+.color-2 {
+    color: orange;
+}
+.color-1{
+    color: red;
+}
